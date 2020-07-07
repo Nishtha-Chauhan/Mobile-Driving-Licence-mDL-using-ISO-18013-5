@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="open_camera">OPEN CAMERA</string>
+    <string name="title_devices">a</string>
+    <string name="ble_not_supported">b</string>
+    <!--<string name="AboutmDL"><a href=".About">Click here for getting information about mDL</a></string>
+-->
+    <string name="verification_code">verification_code</string>
+    <string name="pin_code">pin_code</string>
+    <string name="site_id">site_id</string>
+    <string name="enroll_write">enroll_write</string>
+    <string name="ident_mode">ident_mode</string>
+
+    <string name="ident_mode_manual">manual</string>
+    <string name="ident_mode_auto">auto</string>
+
+    <string name="isAdvertising">isAdvertising</string>
+    <string name="advStatusActive">active</string>
+    <string name="advStatusNotActive">disabled</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">mDLHolderApplication</string>
+    <string name="title_devices">a</string>
+    <string name="ble_not_supported">b</string>
+
+    <string name="action_settings">Settings</string>
+        <string name="hint_name">Full Name</string>
+        <string name="hint_dob">Date_of_Birth</string>
+    <string name="hint_parent">Name_of_Parent</string>
+        <string name="hint_address">Address</string>
+    <string name="hint_pin">Postal_Pin</string>
+    <string name="hint_number">Phone_Number</string>
+    <string name="hint_dlnumber">Driving_Licence_Number</string>
+    <string name="hint_issue">Issue_Date</string>
+    <string name="hint_validity">Expiry_Date</string>
+
+
+        <string name="err_msg_name">Enter your full name</string>
+        <string name="err_msg_dob">Enter vaid date of birth</string>
+    <string name="err_msg_parent">Enter the full name of father or mother</string>
+        <string name="err_msg_address">Enter proper address</string>
+    <string name="err_msg_pin">Enter a 6 digit postal pin</string>
+    <string name="err_msg_number">Enter nine digit number</string>
+    <string name="err_msg_dlnumber">Enter proper driving licence number</string>
+    <string name="err_msg_issue">Enter the correct issue date</string>
+    <string name="err_msg_validity">Enter the correct expiry date</string>
+
+
+    <string name="verification_code">verification_code</string>
+    <string name="pin_code">pin_code</string>
+    <string name="site_id">site_id</string>
+    <string name="enroll_write">enroll_write</string>
+    <string name="ident_mode">ident_mode</string>
+
+    <string name="ident_mode_manual">manual</string>
+    <string name="ident_mode_auto">auto</string>
+
+    <string name="isAdvertising">isAdvertising</string>
+    <string name="advStatusActive">active</string>
+    <string name="advStatusNotActive">disabled</string>
+    <string name="photo">Take Photo</string>
+</resources>

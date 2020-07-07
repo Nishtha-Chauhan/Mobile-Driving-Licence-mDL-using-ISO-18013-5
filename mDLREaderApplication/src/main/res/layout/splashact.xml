@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:id="@+id/randomViewInMainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_weight="2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="1">
+
+            <ImageView android:id="@+id/splashscreen"
+                android:src="@drawable/logo"
+                android:layout_gravity="center"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" >
+
+                <!--
+                            <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+                                android:oneshot="true">
+                                <item android:drawable="@drawable/logo" android:duration="200" />
+                                <item android:drawable="@drawable/logo" android:duration="200" />
+                                <item android:drawable="@drawable/logo" android:duration="200" />
+                            </animation-list>-->
+
+            </ImageView>
+
+            <!--    <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/text"
+                    android:text="Welcome mDL Holder!!!!">
+                </TextView>-->
+
+        </LinearLayout>
+
+        <!--       <LinearLayout
+                   android:layout_width="match_parent"
+                   android:layout_height="match_parent"
+                   android:layout_weight="5"
+                   android:gravity="center">
+
+               </LinearLayout>-->
+
+
+    </LinearLayout>
+
+</LinearLayout>

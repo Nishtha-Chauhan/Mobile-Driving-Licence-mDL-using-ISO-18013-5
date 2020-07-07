@@ -1,0 +1,2 @@
+include ':app', ':mDLREaderApplication', ':lib'
+rootProject.name='mDLHolderApplication'
